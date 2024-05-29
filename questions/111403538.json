@@ -1,0 +1,4 @@
+{
+    "Python資料科學網頁後端框架推薦": "探討了使用 Python 框架展示資料科學成果的適合性，以及快速呈現成果的需求。討論了 Streamlit 與 LLM 的應用、前端客製化、使用 FastAPI 的結構、middleware 與檔案放置、以及 Docker 中的部署問題。",
+    "最佳 System Prompt 格式建議": "著重於使用 OpenAI Python API 的 System Prompt 格式與效果，探討 Json 格式字串的應用、FastAPI 與 OpenAI API 串接、AsyncOpenAI 的使用、回應處理方式、以及前端接收和 CORS 問題等技術細節。"
+}
